@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # d3js.example
 
 
@@ -17,3 +18,9 @@ A detailed list of the changes and fixes in each version update can be found in 
 
 * [D3js] (http://d3js.org/) - D3 Data-Driven Documents
 * [mbostock] (http://bl.ocks.org/mbostock) - examples
+=======
+d3js.example
+============
+
+working with D3.js examples
+>>>>>>> c482601322f6268b1ce1a8e21c6d5f1567d46285
