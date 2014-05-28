@@ -1,4 +1,4 @@
-/*! HTML5 Boilerplate v4.3.0 | MIT License | http://h5bp.com/ */
+/*! main.css for d3.js_example Page | HTML5 Boilerplate v4.3.0 | MIT License | http://h5bp.com/ */
 
 /*
  * What follows is the result of much research on cross-browser styling.
@@ -90,15 +90,38 @@ textarea {
 /* ==========================================================================
    Author's custom styles
    ========================================================================== */
+.node circle {
+  cursor: pointer;
+  fill: #fff;
+  stroke: steelblue;
+  stroke-width: 1.5px;
+}
 
+.node text {
+  font-size: 11px;
+}
 
-
-
-
-
-
-
-
+path.link {
+  fill: none;
+  stroke: #ccc;
+  stroke-width: 1.5px;
+}
+label {
+    font: 12px sans-serif;
+}
+.node circle {
+    fill: #fff;
+    stroke: steelblue;
+    stroke-width: 1.5px;
+}
+.node {
+    font: 10px sans-serif;
+}
+.link {
+    fill: none;
+    stroke: tan;
+    stroke-width: 1.5px;
+}
 
 
 
