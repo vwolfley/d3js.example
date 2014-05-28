@@ -90,6 +90,10 @@ textarea {
 /* ==========================================================================
    Author's custom styles
    ========================================================================== */
+#body {
+    margin: 10px 0 0 20px;
+}
+
 .node circle {
   cursor: pointer;
   fill: #fff;
@@ -98,7 +102,7 @@ textarea {
 }
 
 .node text {
-  font-size: 11px;
+  font: 10px sans-serif;
 }
 
 path.link {
