@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 <!doctype html>
 <html class="no-js">
   <head>
@@ -13,15 +12,6 @@
     <script src="http://d3js.org/d3.v3.min.js"></script>
     <!-- // <script src="d3/d3.js"></script> -->
     <!-- // <script src="d3/d3.layout.js"></script> -->
-=======
-<!DOCTYPE html>
-<html>
-  <head>
-    <meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
-    <link type="text/css" rel="stylesheet" href="style.css"/>
-    <script type="text/javascript" src="http://d3js.org/d3.v3.min.js"></script>
-    <script type="text/javascript" src="d3/d3.layout.js"></script>
->>>>>>> c482601322f6268b1ce1a8e21c6d5f1567d46285
     <style type="text/css">
 
 
@@ -94,20 +84,12 @@ function transitionToRadialTree() {
 
     var nodes = radialTree.nodes(root), // recalculate layout
         links = radialTree.links(nodes);
-<<<<<<< HEAD
 
-=======
-    
->>>>>>> c482601322f6268b1ce1a8e21c6d5f1567d46285
     svg.transition().duration(duration)
         .attr("transform", "translate(" + (width/2) + "," +
                                           (height/2) + ")");
         // set appropriate translation (origin in middle of svg)
-<<<<<<< HEAD
 
-=======
-    
->>>>>>> c482601322f6268b1ce1a8e21c6d5f1567d46285
     link.data(links)
         .transition()
         .duration(duration)
@@ -120,40 +102,24 @@ function transitionToRadialTree() {
         .attr("transform", function(d) {
             return "rotate(" + (d.x - 90) + ")translate(" + d.y + ")";
         });
-<<<<<<< HEAD
 
-=======
-    
->>>>>>> c482601322f6268b1ce1a8e21c6d5f1567d46285
     node.select("circle")
         .transition()
         .duration(duration)
         .style("stroke", "#984ea3");
-<<<<<<< HEAD
 
-=======
-    
->>>>>>> c482601322f6268b1ce1a8e21c6d5f1567d46285
 };
 
 function transitionToRadialCluster() {
 
     var nodes = radialCluster.nodes(root), // recalculate layout
         links = radialCluster.links(nodes);
-<<<<<<< HEAD
 
-=======
-    
->>>>>>> c482601322f6268b1ce1a8e21c6d5f1567d46285
     svg.transition().duration(duration)
         .attr("transform", "translate(" + (width/2) + "," +
                                           (height/2) + ")");
         // set appropriate translation (origin in middle of svg)
-<<<<<<< HEAD
 
-=======
-    
->>>>>>> c482601322f6268b1ce1a8e21c6d5f1567d46285
     link.data(links)
         .transition()
         .duration(duration)
@@ -166,11 +132,7 @@ function transitionToRadialCluster() {
         .attr("transform", function(d) {
             return "rotate(" + (d.x - 90) + ")translate(" + d.y + ")";
         });
-<<<<<<< HEAD
 
-=======
-    
->>>>>>> c482601322f6268b1ce1a8e21c6d5f1567d46285
     node.select("circle")
         .transition()
         .duration(duration)
@@ -179,21 +141,13 @@ function transitionToRadialCluster() {
 };
 
 function transitionToTree() {
-<<<<<<< HEAD
 
-=======
-    
->>>>>>> c482601322f6268b1ce1a8e21c6d5f1567d46285
     var nodes = tree.nodes(root), //recalculate layout
         links = tree.links(nodes);
 
     svg.transition().duration(duration)
         .attr("transform", "translate(40,0)");
-<<<<<<< HEAD
 
-=======
-        
->>>>>>> c482601322f6268b1ce1a8e21c6d5f1567d46285
     link.data(links)
         .transition()
         .duration(duration)
@@ -206,11 +160,7 @@ function transitionToTree() {
         .attr("transform", function (d) {
             return "translate(" + d.y + "," + d.x + ")";
         });
-<<<<<<< HEAD
 
-=======
-    
->>>>>>> c482601322f6268b1ce1a8e21c6d5f1567d46285
     node.select("circle")
         .transition()
         .duration(duration)
@@ -219,7 +169,6 @@ function transitionToTree() {
 };
 
 function transitionToCluster() {
-<<<<<<< HEAD
 
     var nodes = cluster.nodes(root), //recalculate layout
         links = cluster.links(nodes);
@@ -227,15 +176,6 @@ function transitionToCluster() {
     svg.transition().duration(duration)
         .attr("transform", "translate(40,0)");
 
-=======
-    
-    var nodes = cluster.nodes(root), //recalculate layout
-        links = cluster.links(nodes);
-    
-    svg.transition().duration(duration)
-        .attr("transform", "translate(40,0)");
-  
->>>>>>> c482601322f6268b1ce1a8e21c6d5f1567d46285
     link.data(links)
         .transition()
         .duration(duration)
@@ -248,20 +188,12 @@ function transitionToCluster() {
         .attr("transform", function (d) {
             return "translate(" + d.y + "," + d.x + ")";
         });
-<<<<<<< HEAD
 
-=======
-    
->>>>>>> c482601322f6268b1ce1a8e21c6d5f1567d46285
     node.select("circle")
         .transition()
         .duration(duration)
         .style("stroke", "#e41a1c");
-<<<<<<< HEAD
 
-=======
-    
->>>>>>> c482601322f6268b1ce1a8e21c6d5f1567d46285
 };
 
 var root; // store data in a variable accessible by all functions
