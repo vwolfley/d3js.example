@@ -1,9 +1,14 @@
 {
 "name": "Sherwoods",
+"lastname": "Sherwood",
+"spouse1": "Bill",
+"spouse2": "Kathleen",
 "children": [
     {
     "name": "Kimberly",
-    "spouse": "Scott",
+    "lastname": "Rapier",
+    "spouse1": "Kimberly",
+    "spouse2": "Scott",
     "children": [
         {"name": "Evelyn", "year": "1991", "num": "1", "sex": "F"},
         {"name": "Kathleen", "year": "1991", "num": "2", "sex": "F"},
@@ -16,7 +21,9 @@
     },
     {
     "name": "Kris",
-    "spouse": "Owen",
+    "lastname": "Allen",
+    "spouse1": "Kris",
+    "spouse2": "Owen",
     "children": [
         {"name": "Brock", "year": "1991", "num": "3", "sex": "M"},
         {"name": "Lindsay", "year": "1994", "num": "", "sex": "F"},
@@ -26,7 +33,9 @@
     },
     {
     "name": "Koni",
-    "spouse": "Ron",
+    "lastname": "Smith",
+    "spouse1": "KOni",
+    "spouse2": "Ron",
     "children": [
         {"name": "Nathan", "year": "1996", "num": "", "sex": "M"},
         {"name": "Spencer", "year": "1998", "num": "", "sex": "M"},
@@ -38,7 +47,9 @@
     },
     {
     "name": "Kari",
-    "spouse": "Bryant",
+    "lastname": "Rockwood",
+    "spouse1": "Kari",
+    "spouse2": "Bryant",
     "children": [
         {"name": "Madison", "year": "2001", "num": "", "sex": "F"},
         {"name": "Maxwell", "year": "2002", "num": "", "sex": "M"},
@@ -47,7 +58,9 @@
     },
     {
     "name": "Jeff",
-    "spouse": "Heather",
+    "lastname": "Sherwood",
+    "spouse1": "Jeff",
+    "spouse2": "Heather",
     "children": [
         {"name": "Jackson", "year": "2002", "num": "", "sex": "M"},
         {"name": "Carter", "year": "2004", "num": "", "sex": "M"},
@@ -58,7 +71,9 @@
     },
     {
     "name": "Kindy",
-    "spouse": "Vern",
+    "lastname": "Wolfley",
+    "spouse1": "Kindy",
+    "spouse2": "Vern",
     "children": [
         {"name": "Elena", "year": "2001", "num": "", "sex": "F"},
         {"name": "Natalie", "year": "2003", "num": "", "sex": "F"},
@@ -69,7 +84,9 @@
     },
     {
     "name": "Greg",
-    "spouse": "Nicolle",
+    "lastname": "Sherwood",
+    "spouse1": "Greg",
+    "spouse2": "Nicolle",
     "children": [
         {"name": "Clara", "year": "2007", "num": "", "sex": "F"},
         {"name": "Sara Jane", "year": "2010", "num": "", "sex": "F"},
@@ -78,7 +95,9 @@
     },
     {
     "name": "Rob",
-    "spouse": "Jill",
+    "lastname": "Sherwood",
+    "spouse1": "Rob",
+    "spouse2": "Jill",
     "children": [
         {"name": "Taylor", "year": "2001", "num": "", "sex": "M"},
         {"name": "Emilie", "year": "2003", "num": "", "sex": "F"},
@@ -90,7 +109,9 @@
     },
     {
     "name": "Karen",
-    "spouse": "Chris",
+    "lastname": "Scott",
+    "spouse1": "Karen",
+    "spouse2": "Chris",
     "children": [
         {"name": "William", "year": "2004", "num": "", "sex": "M"},
         {"name": "Annmarie", "year": "2005", "num": "", "sex": "F"},
