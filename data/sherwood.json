@@ -40,9 +40,9 @@
         {"name": "Nathan", "year": "1996", "num": "", "sex": "M"},
         {"name": "Spencer", "year": "1998", "num": "", "sex": "M"},
         {"name": "Lauren", "year": "2001", "num": "", "sex": "F"},
-        {"name": "Forrest", "year": "2003", "num": "", "sex": "M"}
+        {"name": "Forrest", "year": "2003", "num": "", "sex": "M"},
         {"name": "Grant", "year": "2005", "num": "", "sex": "M"},
-        {"name": "Stewart", "year": "2012", "num": "", "sex": "M"},
+        {"name": "Stewart", "year": "2012", "num": "", "sex": "M"}
     ]
     },
     {
@@ -66,7 +66,7 @@
         {"name": "Carter", "year": "2004", "num": "", "sex": "M"},
         {"name": "Kate", "year": "2006", "num": "", "sex": "F"},
         {"name": "Ella", "year": "2007", "num": "", "sex": "F"},
-        {"name": "Nora", "year": "2013", "num": "", "sex": "F"},
+        {"name": "Nora", "year": "2013", "num": "", "sex": "F"}
     ]
     },
     {
@@ -102,7 +102,7 @@
         {"name": "Taylor", "year": "2001", "num": "", "sex": "M"},
         {"name": "Emilie", "year": "2003", "num": "", "sex": "F"},
         {"name": "Brian", "year": "2006", "num": "", "sex": "M"},
-        "name": "Caleb", "year": "2008", "num": "", "sex": "M"},
+        {"name": "Caleb", "year": "2008", "num": "", "sex": "M"},
         {"name": "Melody", "year": "2010", "num": "", "sex": "F"},
         {"name": "Baby6", "year": "2014", "num": "", "sex": ""}
     ]
@@ -116,7 +116,7 @@
         {"name": "William", "year": "2004", "num": "", "sex": "M"},
         {"name": "Annmarie", "year": "2005", "num": "", "sex": "F"},
         {"name": "Jeffrey", "year": "2007", "num": "", "sex": "M"},
-        "name": "Jedadiah", "year": "2008", "num": "", "sex": "M"},
+        {"name": "Jedadiah", "year": "2008", "num": "", "sex": "M"},
         {"name": "Henry", "year": "2010", "num": "", "sex": "M"}
     ]
     }

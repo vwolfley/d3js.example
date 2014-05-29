@@ -42,7 +42,7 @@
     "name": "Sara",
     "lastname": "Bodily",
     "spouse1": "Sara",
-    "spouse2": "Doug",,
+    "spouse2": "Doug",
     "children": [
         {"name": "Warren", "year": "2003", "num": "2", "sex": "M"},
         {"name": "Clarissa", "year": "2005", "num": "5", "sex": "F"},
