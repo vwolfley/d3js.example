@@ -36,7 +36,7 @@ var svg = d3.select("body").append("svg")
 //   root.children.forEach(collapse);
 //   update(root);
 
-d3.json("data/wolfley.json", function(error, flare) {
+d3.json("data/sherwood.json", function(error, flare) {
   root = flare;
   root.x0 = height / 2;
   root.y0 = 0;
