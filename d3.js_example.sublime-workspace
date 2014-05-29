@@ -580,6 +580,16 @@
 	},
 	"file_history":
 	[
+		"/Z/d3.js_example/index.html",
+		"/Z/d3.js_example/css/main.css",
+		"/Z/d3.js_example/js/main.js",
+		"/Z/d3.js_example/data/wolfley.json",
+		"/Z/d3.js_example/README.md",
+		"/Z/d3.js_example/CHANGELOG.md",
+		"/Z/d3.js_example/js/main_old1.js",
+		"/Z/d3.js_example/js/_main.js",
+		"/C/Users/vwolfley/Desktop/index.html",
+		"/Z/d3.js_example/.git/config",
 		"/I/Projects/ArcGIS Server/10.2/javascript_apps/Wickenburg/wickenburg_project/views/measure.html",
 		"/I/Projects/ArcGIS Server/10.2/javascript_apps/Wickenburg/wickenburg_project/views/definitions.html",
 		"/I/Projects/ArcGIS Server/10.2/javascript_apps/Wickenburg/wickenburg_project/views/about.html",
@@ -697,17 +707,7 @@
 		"/I/Projects/ArcGIS Server/10.2/javascript_apps/Demographics/deploy/build_working/app/views/queryBuilderHelp-view.html",
 		"/I/Projects/ArcGIS Server/10.2/javascript_apps/Demographics/deploy/build_working/app/vm/print-vm.js",
 		"/I/Projects/ArcGIS Server/10.2/javascript_apps/Demographics/deploy/build_working/app/views/legendHelp-view.html",
-		"/I/Projects/ArcGIS Server/10.2/javascript_apps/Demographics/deploy/build_working/app/views/mainHelp-view.html",
-		"/I/Projects/ArcGIS Server/10.2/javascript_apps/Demographics/deploy/build_working/app/views/socialHelp-view.html",
-		"/I/Projects/ArcGIS Server/10.2/javascript_apps/Demographics/deploy/build_working/app/views/printHelp-view.html",
-		"/I/Projects/ArcGIS Server/10.2/javascript_apps/Demographics/deploy/build_working/app/views/panelHelp-view.html",
-		"/I/Projects/ArcGIS Server/10.2/javascript_apps/Demographics/deploy/build_working/app/views/classBreaksHelp-view.html",
-		"/I/Projects/ArcGIS Server/10.2/javascript_apps/Demographics/deploy/build_working/app/views/colorRampHelp-view.html",
-		"/I/Projects/ArcGIS Server/10.2/javascript_apps/Demographics/deploy/build_working/app/views/cbrHelp-view.html",
-		"/I/Projects/ArcGIS Server/10.2/javascript_apps/Demographics/deploy/build_working_rd/demographics.sublime-project",
-		"/I/Projects/ArcGIS Server/10.2/javascript_apps/Demographics/deploy/build_working/app/vm/socialLaunchbar-vm.js",
-		"/I/Projects/ArcGIS Server/10.2/javascript_apps/Demographics/deploy/build_working/app/views/legend-view.html",
-		"/C/Users/vwolfley/AppData/Roaming/Sublime Text 2/Packages/sublime-jslint/sublime-jslint.sublime-settings"
+		"/I/Projects/ArcGIS Server/10.2/javascript_apps/Demographics/deploy/build_working/app/views/mainHelp-view.html"
 	],
 	"find":
 	{
@@ -725,6 +725,9 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"error",
+			"getData",
+			"svg",
 			"defModal",
 			"HomeButton",
 			"scroll",
@@ -849,10 +852,7 @@
 			"fcount",
 			"fcount1",
 			"fcount2",
-			"query",
-			"z-index",
-			"magNumberFormatter",
-			"on("
+			"query"
 		],
 		"highlight": false,
 		"in_selection": false,
